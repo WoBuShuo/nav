@@ -50,10 +50,10 @@
 - taxonomy: AI工具网
   icon: fa-regular fa-newspaper
   links: 
-  - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
+      - title: 雷锋网
+      logo: images/logos/leiphone.png
+      url: https://www.leiphone.com/
+      description: 人工智能和智能硬件领域的互联网科技媒体
   
     
 
